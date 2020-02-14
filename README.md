@@ -1,7 +1,7 @@
 # AoE2 Competetive mods pack
 
 # Installation
-Copy everything to your game directory. You should backup your game directory first.
+Copy everything to your Age of Empires 2 game directory. You should backup your game directory first.
 
 # Contents
  - Pro mod by Philippe le Bon
