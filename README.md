@@ -1,7 +1,7 @@
 # AoE2 Competetive mods pack
 
 # Installation
-Copy everything except 'hotkeys.png' and 'readme.txt' to your game directory. You should backup your game directory first.
+Copy everything to your Age of Empires 2 game directory. You should backup your game directory first.
 
 # Contents
  - Pro mod by Philippe le Bon
@@ -18,3 +18,6 @@ Copy everything except 'hotkeys.png' and 'readme.txt' to your game directory. Yo
    - https://www.voobly.com/gamemods/mod/308/Grid-Terrains
  - Grid w/Defaults hotkeys
    - https://aokhotkeys.appspot.com/
+
+# Hotkeys
+<img src="https://i.imgur.com/8wmuOWw.png" title="hotkeys" alt="hotkeys">
