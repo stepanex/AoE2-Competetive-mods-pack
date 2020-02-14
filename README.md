@@ -1,7 +1,7 @@
 # AoE2 Competetive mods pack
 
 # Installation
-Copy everything except 'hotkeys.png' and 'readme.txt' to your game directory. You should backup your game directory first.
+Copy everything to your game directory. You should backup your game directory first.
 
 # Contents
  - Pro mod by Philippe le Bon
