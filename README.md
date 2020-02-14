@@ -18,3 +18,6 @@ Copy everything except 'hotkeys.png' and 'readme.txt' to your game directory. Yo
    - https://www.voobly.com/gamemods/mod/308/Grid-Terrains
  - Grid w/Defaults hotkeys
    - https://aokhotkeys.appspot.com/
+
+# Hotkeys
+<img src="https://i.imgur.com/8wmuOWw.png" title="hotkeys" alt="hotkeys">
