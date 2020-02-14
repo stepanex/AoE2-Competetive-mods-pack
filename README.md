@@ -1,5 +1,5 @@
 # AoE2 Competetive mods pack
-This pack makes Age of Empires 2 graphics more suitable to competetive playing.
+This pack makes Age of Empires 2 graphics more suitable for competetive playing.
 
 # Installation
 Copy everything to your Age of Empires 2 game directory. You should backup your game directory first.
