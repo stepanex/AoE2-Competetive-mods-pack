@@ -21,3 +21,6 @@ Copy everything to your Age of Empires 2 game directory. You should backup your 
 
 # Hotkeys
 <img src="https://i.imgur.com/8wmuOWw.png" title="hotkeys" alt="hotkeys">
+
+v1.0
+made by Stepanex
